@@ -64,6 +64,8 @@ try:
         attack INT,
         defense INT,
         speed INT,
+        at_esp INT,
+        def_esp INT,
         FOREIGN KEY (pokemon_id) REFERENCES pokemon(pokemon_id)
     );
     """)
