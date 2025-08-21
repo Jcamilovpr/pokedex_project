@@ -13,7 +13,7 @@ POKEDEX = []
 # Pokémon de la séptima generación: 722 - 810
 # Pokémon de la octava generación: 810 - 899
 
-for pokemon_id in range(1, 152):
+for pokemon_id in range(810, 899):
     print(f"Fetching Pokémon {pokemon_id}...")
     url = f"https://pokeapi.co/api/v2/pokemon/{pokemon_id}"
     response = requests.get(url)
@@ -46,7 +46,7 @@ for pokemon_id in range(1, 152):
     POKEDEX.append(pokemon)
 
 # Save file (Change name for other gens)
-with open("data/pokedex_gen1.json", "w", encoding="utf-8") as f:
+with open("data/pokedex_gen8.json", "w", encoding="utf-8") as f:
     json.dump(POKEDEX, f, indent=4, ensure_ascii=False)
 
-print("✅ pokedex_gen1.json creado con éxito.")
+print("pokedex_gen2.json creado con éxito.")

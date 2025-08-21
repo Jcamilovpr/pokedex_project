@@ -13,7 +13,7 @@ def get_type_id(type_name, cursor):
 
 
 # Use the JSON that correponds to the generation
-with open("data/pokedex_gen1.json", "r", encoding="utf-8") as f:
+with open("data/pokedex_gen8.json", "r", encoding="utf-8") as f:
     pokemons_gen1 = json.load(f)
 
 try:

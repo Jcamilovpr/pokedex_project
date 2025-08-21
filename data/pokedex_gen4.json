@@ -1,0 +1,1500 @@
+[
+    {
+        "id": 387,
+        "name": "Turtwig",
+        "type1": "Grass",
+        "type2": null,
+        "stats": {
+            "hp": 55,
+            "attack": 68,
+            "defense": 64,
+            "speed": 31,
+            "at_esp": 45,
+            "def_esp": 55
+        }
+    },
+    {
+        "id": 388,
+        "name": "Grotle",
+        "type1": "Grass",
+        "type2": null,
+        "stats": {
+            "hp": 75,
+            "attack": 89,
+            "defense": 85,
+            "speed": 36,
+            "at_esp": 55,
+            "def_esp": 65
+        }
+    },
+    {
+        "id": 389,
+        "name": "Torterra",
+        "type1": "Grass",
+        "type2": "Ground",
+        "stats": {
+            "hp": 95,
+            "attack": 109,
+            "defense": 105,
+            "speed": 56,
+            "at_esp": 75,
+            "def_esp": 85
+        }
+    },
+    {
+        "id": 390,
+        "name": "Chimchar",
+        "type1": "Fire",
+        "type2": null,
+        "stats": {
+            "hp": 44,
+            "attack": 58,
+            "defense": 44,
+            "speed": 61,
+            "at_esp": 58,
+            "def_esp": 44
+        }
+    },
+    {
+        "id": 391,
+        "name": "Monferno",
+        "type1": "Fire",
+        "type2": "Fighting",
+        "stats": {
+            "hp": 64,
+            "attack": 78,
+            "defense": 52,
+            "speed": 81,
+            "at_esp": 78,
+            "def_esp": 52
+        }
+    },
+    {
+        "id": 392,
+        "name": "Infernape",
+        "type1": "Fire",
+        "type2": "Fighting",
+        "stats": {
+            "hp": 76,
+            "attack": 104,
+            "defense": 71,
+            "speed": 108,
+            "at_esp": 104,
+            "def_esp": 71
+        }
+    },
+    {
+        "id": 393,
+        "name": "Piplup",
+        "type1": "Water",
+        "type2": null,
+        "stats": {
+            "hp": 53,
+            "attack": 51,
+            "defense": 53,
+            "speed": 40,
+            "at_esp": 61,
+            "def_esp": 56
+        }
+    },
+    {
+        "id": 394,
+        "name": "Prinplup",
+        "type1": "Water",
+        "type2": null,
+        "stats": {
+            "hp": 64,
+            "attack": 66,
+            "defense": 68,
+            "speed": 50,
+            "at_esp": 81,
+            "def_esp": 76
+        }
+    },
+    {
+        "id": 395,
+        "name": "Empoleon",
+        "type1": "Water",
+        "type2": "Steel",
+        "stats": {
+            "hp": 84,
+            "attack": 86,
+            "defense": 88,
+            "speed": 60,
+            "at_esp": 111,
+            "def_esp": 101
+        }
+    },
+    {
+        "id": 396,
+        "name": "Starly",
+        "type1": "Normal",
+        "type2": "Flying",
+        "stats": {
+            "hp": 40,
+            "attack": 55,
+            "defense": 30,
+            "speed": 60,
+            "at_esp": 30,
+            "def_esp": 30
+        }
+    },
+    {
+        "id": 397,
+        "name": "Staravia",
+        "type1": "Normal",
+        "type2": "Flying",
+        "stats": {
+            "hp": 55,
+            "attack": 75,
+            "defense": 50,
+            "speed": 80,
+            "at_esp": 40,
+            "def_esp": 40
+        }
+    },
+    {
+        "id": 398,
+        "name": "Staraptor",
+        "type1": "Normal",
+        "type2": "Flying",
+        "stats": {
+            "hp": 85,
+            "attack": 120,
+            "defense": 70,
+            "speed": 100,
+            "at_esp": 50,
+            "def_esp": 60
+        }
+    },
+    {
+        "id": 399,
+        "name": "Bidoof",
+        "type1": "Normal",
+        "type2": null,
+        "stats": {
+            "hp": 59,
+            "attack": 45,
+            "defense": 40,
+            "speed": 31,
+            "at_esp": 35,
+            "def_esp": 40
+        }
+    },
+    {
+        "id": 400,
+        "name": "Bibarel",
+        "type1": "Normal",
+        "type2": "Water",
+        "stats": {
+            "hp": 79,
+            "attack": 85,
+            "defense": 60,
+            "speed": 71,
+            "at_esp": 55,
+            "def_esp": 60
+        }
+    },
+    {
+        "id": 401,
+        "name": "Kricketot",
+        "type1": "Bug",
+        "type2": null,
+        "stats": {
+            "hp": 37,
+            "attack": 25,
+            "defense": 41,
+            "speed": 25,
+            "at_esp": 25,
+            "def_esp": 41
+        }
+    },
+    {
+        "id": 402,
+        "name": "Kricketune",
+        "type1": "Bug",
+        "type2": null,
+        "stats": {
+            "hp": 77,
+            "attack": 85,
+            "defense": 51,
+            "speed": 65,
+            "at_esp": 55,
+            "def_esp": 51
+        }
+    },
+    {
+        "id": 403,
+        "name": "Shinx",
+        "type1": "Electric",
+        "type2": null,
+        "stats": {
+            "hp": 45,
+            "attack": 65,
+            "defense": 34,
+            "speed": 45,
+            "at_esp": 40,
+            "def_esp": 34
+        }
+    },
+    {
+        "id": 404,
+        "name": "Luxio",
+        "type1": "Electric",
+        "type2": null,
+        "stats": {
+            "hp": 60,
+            "attack": 85,
+            "defense": 49,
+            "speed": 60,
+            "at_esp": 60,
+            "def_esp": 49
+        }
+    },
+    {
+        "id": 405,
+        "name": "Luxray",
+        "type1": "Electric",
+        "type2": null,
+        "stats": {
+            "hp": 80,
+            "attack": 120,
+            "defense": 79,
+            "speed": 70,
+            "at_esp": 95,
+            "def_esp": 79
+        }
+    },
+    {
+        "id": 406,
+        "name": "Budew",
+        "type1": "Grass",
+        "type2": "Poison",
+        "stats": {
+            "hp": 40,
+            "attack": 30,
+            "defense": 35,
+            "speed": 55,
+            "at_esp": 50,
+            "def_esp": 70
+        }
+    },
+    {
+        "id": 407,
+        "name": "Roserade",
+        "type1": "Grass",
+        "type2": "Poison",
+        "stats": {
+            "hp": 60,
+            "attack": 70,
+            "defense": 65,
+            "speed": 90,
+            "at_esp": 125,
+            "def_esp": 105
+        }
+    },
+    {
+        "id": 408,
+        "name": "Cranidos",
+        "type1": "Rock",
+        "type2": null,
+        "stats": {
+            "hp": 67,
+            "attack": 125,
+            "defense": 40,
+            "speed": 58,
+            "at_esp": 30,
+            "def_esp": 30
+        }
+    },
+    {
+        "id": 409,
+        "name": "Rampardos",
+        "type1": "Rock",
+        "type2": null,
+        "stats": {
+            "hp": 97,
+            "attack": 165,
+            "defense": 60,
+            "speed": 58,
+            "at_esp": 65,
+            "def_esp": 50
+        }
+    },
+    {
+        "id": 410,
+        "name": "Shieldon",
+        "type1": "Rock",
+        "type2": "Steel",
+        "stats": {
+            "hp": 30,
+            "attack": 42,
+            "defense": 118,
+            "speed": 30,
+            "at_esp": 42,
+            "def_esp": 88
+        }
+    },
+    {
+        "id": 411,
+        "name": "Bastiodon",
+        "type1": "Rock",
+        "type2": "Steel",
+        "stats": {
+            "hp": 60,
+            "attack": 52,
+            "defense": 168,
+            "speed": 30,
+            "at_esp": 47,
+            "def_esp": 138
+        }
+    },
+    {
+        "id": 412,
+        "name": "Burmy",
+        "type1": "Bug",
+        "type2": null,
+        "stats": {
+            "hp": 40,
+            "attack": 29,
+            "defense": 45,
+            "speed": 36,
+            "at_esp": 29,
+            "def_esp": 45
+        }
+    },
+    {
+        "id": 413,
+        "name": "Wormadam-plant",
+        "type1": "Bug",
+        "type2": "Grass",
+        "stats": {
+            "hp": 60,
+            "attack": 59,
+            "defense": 85,
+            "speed": 36,
+            "at_esp": 79,
+            "def_esp": 105
+        }
+    },
+    {
+        "id": 414,
+        "name": "Mothim",
+        "type1": "Bug",
+        "type2": "Flying",
+        "stats": {
+            "hp": 70,
+            "attack": 94,
+            "defense": 50,
+            "speed": 66,
+            "at_esp": 94,
+            "def_esp": 50
+        }
+    },
+    {
+        "id": 415,
+        "name": "Combee",
+        "type1": "Bug",
+        "type2": "Flying",
+        "stats": {
+            "hp": 30,
+            "attack": 30,
+            "defense": 42,
+            "speed": 70,
+            "at_esp": 30,
+            "def_esp": 42
+        }
+    },
+    {
+        "id": 416,
+        "name": "Vespiquen",
+        "type1": "Bug",
+        "type2": "Flying",
+        "stats": {
+            "hp": 70,
+            "attack": 80,
+            "defense": 102,
+            "speed": 40,
+            "at_esp": 80,
+            "def_esp": 102
+        }
+    },
+    {
+        "id": 417,
+        "name": "Pachirisu",
+        "type1": "Electric",
+        "type2": null,
+        "stats": {
+            "hp": 60,
+            "attack": 45,
+            "defense": 70,
+            "speed": 95,
+            "at_esp": 45,
+            "def_esp": 90
+        }
+    },
+    {
+        "id": 418,
+        "name": "Buizel",
+        "type1": "Water",
+        "type2": null,
+        "stats": {
+            "hp": 55,
+            "attack": 65,
+            "defense": 35,
+            "speed": 85,
+            "at_esp": 60,
+            "def_esp": 30
+        }
+    },
+    {
+        "id": 419,
+        "name": "Floatzel",
+        "type1": "Water",
+        "type2": null,
+        "stats": {
+            "hp": 85,
+            "attack": 105,
+            "defense": 55,
+            "speed": 115,
+            "at_esp": 85,
+            "def_esp": 50
+        }
+    },
+    {
+        "id": 420,
+        "name": "Cherubi",
+        "type1": "Grass",
+        "type2": null,
+        "stats": {
+            "hp": 45,
+            "attack": 35,
+            "defense": 45,
+            "speed": 35,
+            "at_esp": 62,
+            "def_esp": 53
+        }
+    },
+    {
+        "id": 421,
+        "name": "Cherrim",
+        "type1": "Grass",
+        "type2": null,
+        "stats": {
+            "hp": 70,
+            "attack": 60,
+            "defense": 70,
+            "speed": 85,
+            "at_esp": 87,
+            "def_esp": 78
+        }
+    },
+    {
+        "id": 422,
+        "name": "Shellos",
+        "type1": "Water",
+        "type2": null,
+        "stats": {
+            "hp": 76,
+            "attack": 48,
+            "defense": 48,
+            "speed": 34,
+            "at_esp": 57,
+            "def_esp": 62
+        }
+    },
+    {
+        "id": 423,
+        "name": "Gastrodon",
+        "type1": "Water",
+        "type2": "Ground",
+        "stats": {
+            "hp": 111,
+            "attack": 83,
+            "defense": 68,
+            "speed": 39,
+            "at_esp": 92,
+            "def_esp": 82
+        }
+    },
+    {
+        "id": 424,
+        "name": "Ambipom",
+        "type1": "Normal",
+        "type2": null,
+        "stats": {
+            "hp": 75,
+            "attack": 100,
+            "defense": 66,
+            "speed": 115,
+            "at_esp": 60,
+            "def_esp": 66
+        }
+    },
+    {
+        "id": 425,
+        "name": "Drifloon",
+        "type1": "Ghost",
+        "type2": "Flying",
+        "stats": {
+            "hp": 90,
+            "attack": 50,
+            "defense": 34,
+            "speed": 70,
+            "at_esp": 60,
+            "def_esp": 44
+        }
+    },
+    {
+        "id": 426,
+        "name": "Drifblim",
+        "type1": "Ghost",
+        "type2": "Flying",
+        "stats": {
+            "hp": 150,
+            "attack": 80,
+            "defense": 44,
+            "speed": 80,
+            "at_esp": 90,
+            "def_esp": 54
+        }
+    },
+    {
+        "id": 427,
+        "name": "Buneary",
+        "type1": "Normal",
+        "type2": null,
+        "stats": {
+            "hp": 55,
+            "attack": 66,
+            "defense": 44,
+            "speed": 85,
+            "at_esp": 44,
+            "def_esp": 56
+        }
+    },
+    {
+        "id": 428,
+        "name": "Lopunny",
+        "type1": "Normal",
+        "type2": null,
+        "stats": {
+            "hp": 65,
+            "attack": 76,
+            "defense": 84,
+            "speed": 105,
+            "at_esp": 54,
+            "def_esp": 96
+        }
+    },
+    {
+        "id": 429,
+        "name": "Mismagius",
+        "type1": "Ghost",
+        "type2": null,
+        "stats": {
+            "hp": 60,
+            "attack": 60,
+            "defense": 60,
+            "speed": 105,
+            "at_esp": 105,
+            "def_esp": 105
+        }
+    },
+    {
+        "id": 430,
+        "name": "Honchkrow",
+        "type1": "Dark",
+        "type2": "Flying",
+        "stats": {
+            "hp": 100,
+            "attack": 125,
+            "defense": 52,
+            "speed": 71,
+            "at_esp": 105,
+            "def_esp": 52
+        }
+    },
+    {
+        "id": 431,
+        "name": "Glameow",
+        "type1": "Normal",
+        "type2": null,
+        "stats": {
+            "hp": 49,
+            "attack": 55,
+            "defense": 42,
+            "speed": 85,
+            "at_esp": 42,
+            "def_esp": 37
+        }
+    },
+    {
+        "id": 432,
+        "name": "Purugly",
+        "type1": "Normal",
+        "type2": null,
+        "stats": {
+            "hp": 71,
+            "attack": 82,
+            "defense": 64,
+            "speed": 112,
+            "at_esp": 64,
+            "def_esp": 59
+        }
+    },
+    {
+        "id": 433,
+        "name": "Chingling",
+        "type1": "Psychic",
+        "type2": null,
+        "stats": {
+            "hp": 45,
+            "attack": 30,
+            "defense": 50,
+            "speed": 45,
+            "at_esp": 65,
+            "def_esp": 50
+        }
+    },
+    {
+        "id": 434,
+        "name": "Stunky",
+        "type1": "Poison",
+        "type2": "Dark",
+        "stats": {
+            "hp": 63,
+            "attack": 63,
+            "defense": 47,
+            "speed": 74,
+            "at_esp": 41,
+            "def_esp": 41
+        }
+    },
+    {
+        "id": 435,
+        "name": "Skuntank",
+        "type1": "Poison",
+        "type2": "Dark",
+        "stats": {
+            "hp": 103,
+            "attack": 93,
+            "defense": 67,
+            "speed": 84,
+            "at_esp": 71,
+            "def_esp": 61
+        }
+    },
+    {
+        "id": 436,
+        "name": "Bronzor",
+        "type1": "Steel",
+        "type2": "Psychic",
+        "stats": {
+            "hp": 57,
+            "attack": 24,
+            "defense": 86,
+            "speed": 23,
+            "at_esp": 24,
+            "def_esp": 86
+        }
+    },
+    {
+        "id": 437,
+        "name": "Bronzong",
+        "type1": "Steel",
+        "type2": "Psychic",
+        "stats": {
+            "hp": 67,
+            "attack": 89,
+            "defense": 116,
+            "speed": 33,
+            "at_esp": 79,
+            "def_esp": 116
+        }
+    },
+    {
+        "id": 438,
+        "name": "Bonsly",
+        "type1": "Rock",
+        "type2": null,
+        "stats": {
+            "hp": 50,
+            "attack": 80,
+            "defense": 95,
+            "speed": 10,
+            "at_esp": 10,
+            "def_esp": 45
+        }
+    },
+    {
+        "id": 439,
+        "name": "Mime-jr",
+        "type1": "Psychic",
+        "type2": "Fairy",
+        "stats": {
+            "hp": 20,
+            "attack": 25,
+            "defense": 45,
+            "speed": 60,
+            "at_esp": 70,
+            "def_esp": 90
+        }
+    },
+    {
+        "id": 440,
+        "name": "Happiny",
+        "type1": "Normal",
+        "type2": null,
+        "stats": {
+            "hp": 100,
+            "attack": 5,
+            "defense": 5,
+            "speed": 30,
+            "at_esp": 15,
+            "def_esp": 65
+        }
+    },
+    {
+        "id": 441,
+        "name": "Chatot",
+        "type1": "Normal",
+        "type2": "Flying",
+        "stats": {
+            "hp": 76,
+            "attack": 65,
+            "defense": 45,
+            "speed": 91,
+            "at_esp": 92,
+            "def_esp": 42
+        }
+    },
+    {
+        "id": 442,
+        "name": "Spiritomb",
+        "type1": "Ghost",
+        "type2": "Dark",
+        "stats": {
+            "hp": 50,
+            "attack": 92,
+            "defense": 108,
+            "speed": 35,
+            "at_esp": 92,
+            "def_esp": 108
+        }
+    },
+    {
+        "id": 443,
+        "name": "Gible",
+        "type1": "Dragon",
+        "type2": "Ground",
+        "stats": {
+            "hp": 58,
+            "attack": 70,
+            "defense": 45,
+            "speed": 42,
+            "at_esp": 40,
+            "def_esp": 45
+        }
+    },
+    {
+        "id": 444,
+        "name": "Gabite",
+        "type1": "Dragon",
+        "type2": "Ground",
+        "stats": {
+            "hp": 68,
+            "attack": 90,
+            "defense": 65,
+            "speed": 82,
+            "at_esp": 50,
+            "def_esp": 55
+        }
+    },
+    {
+        "id": 445,
+        "name": "Garchomp",
+        "type1": "Dragon",
+        "type2": "Ground",
+        "stats": {
+            "hp": 108,
+            "attack": 130,
+            "defense": 95,
+            "speed": 102,
+            "at_esp": 80,
+            "def_esp": 85
+        }
+    },
+    {
+        "id": 446,
+        "name": "Munchlax",
+        "type1": "Normal",
+        "type2": null,
+        "stats": {
+            "hp": 135,
+            "attack": 85,
+            "defense": 40,
+            "speed": 5,
+            "at_esp": 40,
+            "def_esp": 85
+        }
+    },
+    {
+        "id": 447,
+        "name": "Riolu",
+        "type1": "Fighting",
+        "type2": null,
+        "stats": {
+            "hp": 40,
+            "attack": 70,
+            "defense": 40,
+            "speed": 60,
+            "at_esp": 35,
+            "def_esp": 40
+        }
+    },
+    {
+        "id": 448,
+        "name": "Lucario",
+        "type1": "Fighting",
+        "type2": "Steel",
+        "stats": {
+            "hp": 70,
+            "attack": 110,
+            "defense": 70,
+            "speed": 90,
+            "at_esp": 115,
+            "def_esp": 70
+        }
+    },
+    {
+        "id": 449,
+        "name": "Hippopotas",
+        "type1": "Ground",
+        "type2": null,
+        "stats": {
+            "hp": 68,
+            "attack": 72,
+            "defense": 78,
+            "speed": 32,
+            "at_esp": 38,
+            "def_esp": 42
+        }
+    },
+    {
+        "id": 450,
+        "name": "Hippowdon",
+        "type1": "Ground",
+        "type2": null,
+        "stats": {
+            "hp": 108,
+            "attack": 112,
+            "defense": 118,
+            "speed": 47,
+            "at_esp": 68,
+            "def_esp": 72
+        }
+    },
+    {
+        "id": 451,
+        "name": "Skorupi",
+        "type1": "Poison",
+        "type2": "Bug",
+        "stats": {
+            "hp": 40,
+            "attack": 50,
+            "defense": 90,
+            "speed": 65,
+            "at_esp": 30,
+            "def_esp": 55
+        }
+    },
+    {
+        "id": 452,
+        "name": "Drapion",
+        "type1": "Poison",
+        "type2": "Dark",
+        "stats": {
+            "hp": 70,
+            "attack": 90,
+            "defense": 110,
+            "speed": 95,
+            "at_esp": 60,
+            "def_esp": 75
+        }
+    },
+    {
+        "id": 453,
+        "name": "Croagunk",
+        "type1": "Poison",
+        "type2": "Fighting",
+        "stats": {
+            "hp": 48,
+            "attack": 61,
+            "defense": 40,
+            "speed": 50,
+            "at_esp": 61,
+            "def_esp": 40
+        }
+    },
+    {
+        "id": 454,
+        "name": "Toxicroak",
+        "type1": "Poison",
+        "type2": "Fighting",
+        "stats": {
+            "hp": 83,
+            "attack": 106,
+            "defense": 65,
+            "speed": 85,
+            "at_esp": 86,
+            "def_esp": 65
+        }
+    },
+    {
+        "id": 455,
+        "name": "Carnivine",
+        "type1": "Grass",
+        "type2": null,
+        "stats": {
+            "hp": 74,
+            "attack": 100,
+            "defense": 72,
+            "speed": 46,
+            "at_esp": 90,
+            "def_esp": 72
+        }
+    },
+    {
+        "id": 456,
+        "name": "Finneon",
+        "type1": "Water",
+        "type2": null,
+        "stats": {
+            "hp": 49,
+            "attack": 49,
+            "defense": 56,
+            "speed": 66,
+            "at_esp": 49,
+            "def_esp": 61
+        }
+    },
+    {
+        "id": 457,
+        "name": "Lumineon",
+        "type1": "Water",
+        "type2": null,
+        "stats": {
+            "hp": 69,
+            "attack": 69,
+            "defense": 76,
+            "speed": 91,
+            "at_esp": 69,
+            "def_esp": 86
+        }
+    },
+    {
+        "id": 458,
+        "name": "Mantyke",
+        "type1": "Water",
+        "type2": "Flying",
+        "stats": {
+            "hp": 45,
+            "attack": 20,
+            "defense": 50,
+            "speed": 50,
+            "at_esp": 60,
+            "def_esp": 120
+        }
+    },
+    {
+        "id": 459,
+        "name": "Snover",
+        "type1": "Grass",
+        "type2": "Ice",
+        "stats": {
+            "hp": 60,
+            "attack": 62,
+            "defense": 50,
+            "speed": 40,
+            "at_esp": 62,
+            "def_esp": 60
+        }
+    },
+    {
+        "id": 460,
+        "name": "Abomasnow",
+        "type1": "Grass",
+        "type2": "Ice",
+        "stats": {
+            "hp": 90,
+            "attack": 92,
+            "defense": 75,
+            "speed": 60,
+            "at_esp": 92,
+            "def_esp": 85
+        }
+    },
+    {
+        "id": 461,
+        "name": "Weavile",
+        "type1": "Dark",
+        "type2": "Ice",
+        "stats": {
+            "hp": 70,
+            "attack": 120,
+            "defense": 65,
+            "speed": 125,
+            "at_esp": 45,
+            "def_esp": 85
+        }
+    },
+    {
+        "id": 462,
+        "name": "Magnezone",
+        "type1": "Electric",
+        "type2": "Steel",
+        "stats": {
+            "hp": 70,
+            "attack": 70,
+            "defense": 115,
+            "speed": 60,
+            "at_esp": 130,
+            "def_esp": 90
+        }
+    },
+    {
+        "id": 463,
+        "name": "Lickilicky",
+        "type1": "Normal",
+        "type2": null,
+        "stats": {
+            "hp": 110,
+            "attack": 85,
+            "defense": 95,
+            "speed": 50,
+            "at_esp": 80,
+            "def_esp": 95
+        }
+    },
+    {
+        "id": 464,
+        "name": "Rhyperior",
+        "type1": "Ground",
+        "type2": "Rock",
+        "stats": {
+            "hp": 115,
+            "attack": 140,
+            "defense": 130,
+            "speed": 40,
+            "at_esp": 55,
+            "def_esp": 55
+        }
+    },
+    {
+        "id": 465,
+        "name": "Tangrowth",
+        "type1": "Grass",
+        "type2": null,
+        "stats": {
+            "hp": 100,
+            "attack": 100,
+            "defense": 125,
+            "speed": 50,
+            "at_esp": 110,
+            "def_esp": 50
+        }
+    },
+    {
+        "id": 466,
+        "name": "Electivire",
+        "type1": "Electric",
+        "type2": null,
+        "stats": {
+            "hp": 75,
+            "attack": 123,
+            "defense": 67,
+            "speed": 95,
+            "at_esp": 95,
+            "def_esp": 85
+        }
+    },
+    {
+        "id": 467,
+        "name": "Magmortar",
+        "type1": "Fire",
+        "type2": null,
+        "stats": {
+            "hp": 75,
+            "attack": 95,
+            "defense": 67,
+            "speed": 83,
+            "at_esp": 125,
+            "def_esp": 95
+        }
+    },
+    {
+        "id": 468,
+        "name": "Togekiss",
+        "type1": "Fairy",
+        "type2": "Flying",
+        "stats": {
+            "hp": 85,
+            "attack": 50,
+            "defense": 95,
+            "speed": 80,
+            "at_esp": 120,
+            "def_esp": 115
+        }
+    },
+    {
+        "id": 469,
+        "name": "Yanmega",
+        "type1": "Bug",
+        "type2": "Flying",
+        "stats": {
+            "hp": 86,
+            "attack": 76,
+            "defense": 86,
+            "speed": 95,
+            "at_esp": 116,
+            "def_esp": 56
+        }
+    },
+    {
+        "id": 470,
+        "name": "Leafeon",
+        "type1": "Grass",
+        "type2": null,
+        "stats": {
+            "hp": 65,
+            "attack": 110,
+            "defense": 130,
+            "speed": 95,
+            "at_esp": 60,
+            "def_esp": 65
+        }
+    },
+    {
+        "id": 471,
+        "name": "Glaceon",
+        "type1": "Ice",
+        "type2": null,
+        "stats": {
+            "hp": 65,
+            "attack": 60,
+            "defense": 110,
+            "speed": 65,
+            "at_esp": 130,
+            "def_esp": 95
+        }
+    },
+    {
+        "id": 472,
+        "name": "Gliscor",
+        "type1": "Ground",
+        "type2": "Flying",
+        "stats": {
+            "hp": 75,
+            "attack": 95,
+            "defense": 125,
+            "speed": 95,
+            "at_esp": 45,
+            "def_esp": 75
+        }
+    },
+    {
+        "id": 473,
+        "name": "Mamoswine",
+        "type1": "Ice",
+        "type2": "Ground",
+        "stats": {
+            "hp": 110,
+            "attack": 130,
+            "defense": 80,
+            "speed": 80,
+            "at_esp": 70,
+            "def_esp": 60
+        }
+    },
+    {
+        "id": 474,
+        "name": "Porygon-z",
+        "type1": "Normal",
+        "type2": null,
+        "stats": {
+            "hp": 85,
+            "attack": 80,
+            "defense": 70,
+            "speed": 90,
+            "at_esp": 135,
+            "def_esp": 75
+        }
+    },
+    {
+        "id": 475,
+        "name": "Gallade",
+        "type1": "Psychic",
+        "type2": "Fighting",
+        "stats": {
+            "hp": 68,
+            "attack": 125,
+            "defense": 65,
+            "speed": 80,
+            "at_esp": 65,
+            "def_esp": 115
+        }
+    },
+    {
+        "id": 476,
+        "name": "Probopass",
+        "type1": "Rock",
+        "type2": "Steel",
+        "stats": {
+            "hp": 60,
+            "attack": 55,
+            "defense": 145,
+            "speed": 40,
+            "at_esp": 75,
+            "def_esp": 150
+        }
+    },
+    {
+        "id": 477,
+        "name": "Dusknoir",
+        "type1": "Ghost",
+        "type2": null,
+        "stats": {
+            "hp": 45,
+            "attack": 100,
+            "defense": 135,
+            "speed": 45,
+            "at_esp": 65,
+            "def_esp": 135
+        }
+    },
+    {
+        "id": 478,
+        "name": "Froslass",
+        "type1": "Ice",
+        "type2": "Ghost",
+        "stats": {
+            "hp": 70,
+            "attack": 80,
+            "defense": 70,
+            "speed": 110,
+            "at_esp": 80,
+            "def_esp": 70
+        }
+    },
+    {
+        "id": 479,
+        "name": "Rotom",
+        "type1": "Electric",
+        "type2": "Ghost",
+        "stats": {
+            "hp": 50,
+            "attack": 50,
+            "defense": 77,
+            "speed": 91,
+            "at_esp": 95,
+            "def_esp": 77
+        }
+    },
+    {
+        "id": 480,
+        "name": "Uxie",
+        "type1": "Psychic",
+        "type2": null,
+        "stats": {
+            "hp": 75,
+            "attack": 75,
+            "defense": 130,
+            "speed": 95,
+            "at_esp": 75,
+            "def_esp": 130
+        }
+    },
+    {
+        "id": 481,
+        "name": "Mesprit",
+        "type1": "Psychic",
+        "type2": null,
+        "stats": {
+            "hp": 80,
+            "attack": 105,
+            "defense": 105,
+            "speed": 80,
+            "at_esp": 105,
+            "def_esp": 105
+        }
+    },
+    {
+        "id": 482,
+        "name": "Azelf",
+        "type1": "Psychic",
+        "type2": null,
+        "stats": {
+            "hp": 75,
+            "attack": 125,
+            "defense": 70,
+            "speed": 115,
+            "at_esp": 125,
+            "def_esp": 70
+        }
+    },
+    {
+        "id": 483,
+        "name": "Dialga",
+        "type1": "Steel",
+        "type2": "Dragon",
+        "stats": {
+            "hp": 100,
+            "attack": 120,
+            "defense": 120,
+            "speed": 90,
+            "at_esp": 150,
+            "def_esp": 100
+        }
+    },
+    {
+        "id": 484,
+        "name": "Palkia",
+        "type1": "Water",
+        "type2": "Dragon",
+        "stats": {
+            "hp": 90,
+            "attack": 120,
+            "defense": 100,
+            "speed": 100,
+            "at_esp": 150,
+            "def_esp": 120
+        }
+    },
+    {
+        "id": 485,
+        "name": "Heatran",
+        "type1": "Fire",
+        "type2": "Steel",
+        "stats": {
+            "hp": 91,
+            "attack": 90,
+            "defense": 106,
+            "speed": 77,
+            "at_esp": 130,
+            "def_esp": 106
+        }
+    },
+    {
+        "id": 486,
+        "name": "Regigigas",
+        "type1": "Normal",
+        "type2": null,
+        "stats": {
+            "hp": 110,
+            "attack": 160,
+            "defense": 110,
+            "speed": 100,
+            "at_esp": 80,
+            "def_esp": 110
+        }
+    },
+    {
+        "id": 487,
+        "name": "Giratina-altered",
+        "type1": "Ghost",
+        "type2": "Dragon",
+        "stats": {
+            "hp": 150,
+            "attack": 100,
+            "defense": 120,
+            "speed": 90,
+            "at_esp": 100,
+            "def_esp": 120
+        }
+    },
+    {
+        "id": 488,
+        "name": "Cresselia",
+        "type1": "Psychic",
+        "type2": null,
+        "stats": {
+            "hp": 120,
+            "attack": 70,
+            "defense": 110,
+            "speed": 85,
+            "at_esp": 75,
+            "def_esp": 120
+        }
+    },
+    {
+        "id": 489,
+        "name": "Phione",
+        "type1": "Water",
+        "type2": null,
+        "stats": {
+            "hp": 80,
+            "attack": 80,
+            "defense": 80,
+            "speed": 80,
+            "at_esp": 80,
+            "def_esp": 80
+        }
+    },
+    {
+        "id": 490,
+        "name": "Manaphy",
+        "type1": "Water",
+        "type2": null,
+        "stats": {
+            "hp": 100,
+            "attack": 100,
+            "defense": 100,
+            "speed": 100,
+            "at_esp": 100,
+            "def_esp": 100
+        }
+    },
+    {
+        "id": 491,
+        "name": "Darkrai",
+        "type1": "Dark",
+        "type2": null,
+        "stats": {
+            "hp": 70,
+            "attack": 90,
+            "defense": 90,
+            "speed": 125,
+            "at_esp": 135,
+            "def_esp": 90
+        }
+    },
+    {
+        "id": 492,
+        "name": "Shaymin-land",
+        "type1": "Grass",
+        "type2": null,
+        "stats": {
+            "hp": 100,
+            "attack": 100,
+            "defense": 100,
+            "speed": 100,
+            "at_esp": 100,
+            "def_esp": 100
+        }
+    },
+    {
+        "id": 493,
+        "name": "Arceus",
+        "type1": "Normal",
+        "type2": null,
+        "stats": {
+            "hp": 120,
+            "attack": 120,
+            "defense": 120,
+            "speed": 120,
+            "at_esp": 120,
+            "def_esp": 120
+        }
+    }
+]
